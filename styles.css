@@ -1,0 +1,114 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Body styling */
+  body {
+    font-family: "Fira Code", "Courier New", monospace;
+    line-height: 1.6;
+    background: #5a5475; /* deep purple background */
+    color: #f5f5f5; /* off-white text */
+  }
+  
+  /* Navigation */
+  header {
+    background: #42375a; /* darker purple */
+    color: #ffd9e8; /* soft pink */
+    padding: 1rem 2rem;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+  }
+  
+  nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logo {
+    font-size: 1.5rem;
+    color: #ffb3ff; /* light pink/purple */
+  }
+  
+  .nav-links {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .nav-links a {
+    color: #a0e8ff; /* pastel blue */
+    text-decoration: none;
+    transition: 0.3s;
+  }
+  
+  .nav-links a:hover {
+    color: #ffe8a3; /* light yellow */
+  }
+  
+  /* Hero section */
+  .hero {
+    text-align: center;
+    padding: 4rem 2rem;
+    background: #6a5c95; /* lighter purple */
+    border-bottom: 2px solid #ffb3ff;
+  }
+  
+  .hero h2 {
+    font-size: 2.2rem;
+    color: #ffe8a3; /* yellow highlight */
+    margin-bottom: 1rem;
+  }
+  
+  .hero p {
+    color: #a0e8ff; /* soft blue text */
+  }
+  
+  .btn {
+    display: inline-block;
+    padding: 0.7rem 1.2rem;
+    margin-top: 1rem;
+    background: #ffb3ff; /* pastel pink */
+    color: #42375a; /* contrast dark text */
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: 0.3s;
+  }
+  
+  .btn:hover {
+    background: #ffe8a3; /* yellow hover */
+    color: #42375a;
+  }
+  
+  /* Content section */
+  .content {
+    padding: 2rem;
+    max-width: 800px;
+    margin: auto;
+    background: #42375a;
+    border-radius: 10px;
+    color: #ffd9e8;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+  }
+  
+  .content h2 {
+    color: #a0e8ff;
+    margin-bottom: 1rem;
+  }
+  
+  .content p {
+    color: #f5f5f5;
+  }
+  
+  /* Footer */
+  footer {
+    text-align: center;
+    padding: 1rem;
+    background: #42375a;
+    color: #ffe8a3;
+    margin-top: 2rem;
+  }
+  
