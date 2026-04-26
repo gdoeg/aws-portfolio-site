@@ -336,6 +336,30 @@
     margin-top: 0.45rem;
   }
 
+  .project-preview-wrapper {
+    margin: 1.2rem auto 0;
+    width: 100%;
+    max-width: 900px;
+    border-radius: 12px;
+    overflow: hidden;
+    border: 1px solid rgba(255, 179, 255, 0.2);
+    box-shadow:
+      0 4px 6px rgba(0, 0, 0, 0.15),
+      0 12px 32px rgba(0, 0, 0, 0.4),
+      0 0 0 1px rgba(255, 179, 255, 0.08);
+  }
+
+  .project-preview-img {
+    display: block;
+    width: auto;
+    max-width: 100%;
+    margin: 0 auto;
+    height: auto;
+    object-fit: contain;
+    image-rendering: auto;
+    -ms-interpolation-mode: bicubic;
+  }
+
   .project-links {
     display: flex;
     flex-wrap: wrap;
