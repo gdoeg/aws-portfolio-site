@@ -63,6 +63,8 @@ const projects: Project[] = [
       'Developed a full-stack multi-agent simulation platform to study emergent social behavior and resource dynamics, inspired by real-world societal systems. Designed to explore inequality, power distribution, and network effects in autonomous agent systems.',
     techStack: ['Python', 'FastAPI', 'React', 'Simulation Systems'],
     githubUrl: 'https://github.com/gdoeg/emergent-societies',
+    demoUrl: 'https://emergent-societies.vercel.app/',
+    demoCtaLabel: 'Open Dashboard ->',
     type: 'project',
     previewImage: emergentSocietiesPreview,
     highlights: [
