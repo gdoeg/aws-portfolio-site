@@ -8,7 +8,7 @@
 Welcome to my personal portfolio website — a space where I showcase my work in **full-stack development, AI-powered systems, and cloud-based applications**.
 
 **Live Site:** https://gabrielacastaneda.dev
-
+Hosted on Vercel
 
 ## Backend Cold Start Notice
 
@@ -107,10 +107,11 @@ Simulation system modeling agent-based interactions and economic behavior.
 - Animated UI elements
 - Framer Motion
 
-**Other**
-- API integrations
+**Deployment & Infrastructure**
+- Frontend hosted on Vercel
+- Backend services hosted on Render
+- API integrations and cloud-based architecture
 - AI/LLM systems (Groq / Gemini)
-- Cloud deployment (Render, Vercel)
 
 
 ## Site Sections
