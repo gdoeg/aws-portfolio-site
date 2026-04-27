@@ -68,6 +68,8 @@ This site is a central hub for my work as I continue growing into a full-stack a
 
 ### Portfolio Pilot
 
+![Portfolio Pilot](frontend/src/assets/portfolio-pilot-preview.png)
+
 [🔗 Live Demo](https://www.portfoliopilotai.dev/)  
 [💻 View Code](https://github.com/gdoeg/portfolio-pilot)  
 
@@ -80,6 +82,8 @@ AI-powered portfolio analysis platform that:
 
 
 ### Emergent Societies
+
+![Emergent Societies](frontend/src/assets/emergent-societies-preview.png)
 
 [🔗 Live Demo](https://emergent-societies.vercel.app/)  
 [💻 View Code](https://github.com/gdoeg/emergent-societies)
