@@ -9,6 +9,7 @@ Welcome to my personal portfolio website — a space where I showcase my work in
 
 **Live Site:** https://gabrielacastaneda.dev
 
+
 ## Backend Cold Start Notice
 
 Some projects (such as **Portfolio Pilot** and **Emergent Societies**) rely on backend services hosted on Render’s free tier.
@@ -19,9 +20,11 @@ Some projects (such as **Portfolio Pilot** and **Emergent Societies**) rely on b
 
 > If a page does not load immediately, please wait a moment and refresh.
 
+
 ## Demo
 
-<!-- Add your GIF or video here -->
+https://github.com/user-attachments/assets/24987d9f-0e54-4a2a-9283-7f70efa8a570
+
 
 ## What I Bring
 
@@ -29,6 +32,7 @@ Some projects (such as **Portfolio Pilot** and **Emergent Societies**) rely on b
 - Strong experience in **full-stack development** (React, FastAPI, SQL)  
 - Ability to take projects from **idea → deployed product**  
 - Focus on **performance, scalability, and real-world usability**  
+
 
 ## About This Project
 
@@ -40,6 +44,7 @@ It’s designed with a focus on:
 - Real-world projects and production experience
 - Recruiter-friendly navigation
 
+
 ## Why I Built This
 
 I created this portfolio to showcase not just my projects, but my ability to build **real-world, production-ready systems**.
@@ -50,6 +55,7 @@ Each project reflects my interest in:
 - Creating tools that provide real value to users
 
 This site is a central hub for my work as I continue growing into a full-stack and cloud-focused software engineer.
+
 
 ## Featured Experience & Projects
 
@@ -71,6 +77,7 @@ AI-powered portfolio analysis platform that:
 - Integrates financial data APIs
 
 **Tech:** React, TypeScript, FastAPI, PostgreSQL, Groq, APIs
+
 
 ### Emergent Societies
 
@@ -101,12 +108,14 @@ Simulation system modeling agent-based interactions and economic behavior.
 - AI/LLM systems (Groq / Gemini)
 - Cloud deployment (Render, Vercel)
 
+
 ## Site Sections
 
 - **Home** – Introduction and quick overview  
 - **About** – Background and technical focus  
 - **Projects** – Featured work and experience  
 - **Contact** – Links to GitHub, LinkedIn, and email 
+
 
 ## Running Locally
 
@@ -121,6 +130,7 @@ npm run dev
 - GitHub: https://github.com/gdoeg  
 - LinkedIn: https://www.linkedin.com/in/gabriela-castaneda-4aa04019a/  
 - Email: gabrielacastanedagc@gmail.com  
+
 
 ## Currently Working On
 
