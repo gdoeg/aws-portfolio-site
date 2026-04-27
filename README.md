@@ -25,8 +25,6 @@ Some projects (such as **Portfolio Pilot** and **Emergent Societies**) rely on b
 
 ![Portfolio Demo](frontend/src/assets/DemoVideo-ezgif.com-video-to-gif-converter.gif)
 
-https://github.com/user-attachments/assets/7cfc181f-6c3f-4a9e-ae6c-9da70b1274d4
-
 
 ## What I Bring
 
