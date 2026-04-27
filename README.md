@@ -23,7 +23,7 @@ Some projects (such as **Portfolio Pilot** and **Emergent Societies**) rely on b
 
 ## Demo
 
-[Watch Demo Video](https://github.com/user-attachments/assets/24987d9f-0e54-4a2a-9283-7f70efa8a570)
+https://github.com/user-attachments/assets/7cfc181f-6c3f-4a9e-ae6c-9da70b1274d4
 
 
 ## What I Bring
