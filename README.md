@@ -1,68 +1,114 @@
-# Gabriela Castaneda's Portfolio Site
+# Hi, I'm Gabriela Castaneda✨
 
-This repository contains a personal portfolio site that is currently implemented as a React + TypeScript + Vite frontend in the `frontend/` directory.
+![React](https://img.shields.io/badge/React-19-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-Strong-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
+![AI](https://img.shields.io/badge/AI-LLM%20Systems-purple)
 
-The app renders a single-page portfolio with sections for navigation, hero content, an about section, project and experience cards, a contact form, and a footer.
+Welcome to my personal portfolio website — a space where I showcase my work in **full-stack development, AI-powered systems, and cloud-based applications**.
 
-## Current State
+**Live Site:** https://gabrielacastaneda.dev
 
-- Active frontend lives in `frontend/`
-- Built with React 19, TypeScript, and Vite
-- Styling is currently loaded from `frontend/src/styles.css`
-- Project content is hard-coded in component files
-- Contact form uses client-side validation and a simulated async submit
+## Backend Cold Start Notice
 
-## Repository Structure
+Some projects (such as **Portfolio Pilot** and **Emergent Societies**) rely on backend services hosted on Render’s free tier.
 
-```text
-.
-├── README.md
-└── frontend/
-	├── package.json
-	├── vite.config.ts
-	├── public/
-	└── src/
-		├── App.tsx
-		├── main.tsx
-		├── styles.css
-		└── components/
-			├── About.tsx
-			├── Contact.tsx
-			├── Footer.tsx
-			├── Hero.tsx
-			├── Navbar.tsx
-			└── Projects.tsx
-```
+- Initial load may take **30–60 seconds**
+- This is due to backend cold start after inactivity
+- Performance returns to normal after startup
 
-## App Sections
+> If a page does not load immediately, please wait a moment and refresh.
 
-### Navbar
+## Demo
 
-Top navigation with in-page links to `Home`, `About`, `Projects`, and `Contact`.
+<!-- Add your GIF or video here -->
 
-### Hero
+## What I Bring
 
-Landing section with an introduction and a call-to-action button linking to the about section.
+- Experience building **production-level AI systems** using LLMs and multi-agent architectures  
+- Strong experience in **full-stack development** (React, FastAPI, SQL)  
+- Ability to take projects from **idea → deployed product**  
+- Focus on **performance, scalability, and real-world usability**  
 
-### About
+## About This Project
 
-Overview of Gabriela Castaneda's background in application development and cloud computing.
+This portfolio is a **modern, responsive single-page application** built to highlight my experience as a software engineer and my work across AI, backend systems, and full-stack applications.
 
-### Projects
+It’s designed with a focus on:
+- Clean UI/UX
+- Interactive elements and animations
+- Real-world projects and production experience
+- Recruiter-friendly navigation
 
-Card-based section that mixes portfolio projects and experience entries. The current data includes:
+## Why I Built This
 
-- Portfolio Pilot
-- Svistas AI Onboarding System
-- Emergent Societies
+I created this portfolio to showcase not just my projects, but my ability to build **real-world, production-ready systems**.
 
-### Contact
+Each project reflects my interest in:
+- AI-powered applications
+- Scalable backend systems
+- Creating tools that provide real value to users
 
-Form with local validation for name, email, and message fields. Submission currently waits for a short timeout and then shows a success message; it does not send data to a backend service yet.
+This site is a central hub for my work as I continue growing into a full-stack and cloud-focused software engineer.
 
-## Development
+## Featured Experience & Projects
 
-From the repository root:
+### Software Engineer Intern — Sensatronix (Svistas)
+
+- Built and improved an AI-powered onboarding system using multi-agent architecture
+- Worked with **LLMs, backend services, and cloud infrastructure**
+- Contributed to production-level features and debugging complex distributed systems
+
+
+### Portfolio Pilot
+
+[🔗 Live Demo](https://www.portfoliopilotai.dev/)  
+[💻 View Code](https://github.com/gdoeg/portfolio-pilot)  
+
+AI-powered portfolio analysis platform that:
+- Provides investment insights using LLMs
+- Tracks portfolio performance and metrics
+- Integrates financial data APIs
+
+**Tech:** React, TypeScript, FastAPI, PostgreSQL, Groq, APIs
+
+### Emergent Societies
+
+[🔗 Live Demo](https://emergent-societies.vercel.app/)  
+[💻 View Code](https://github.com/gdoeg/emergent-societies)
+
+Simulation system modeling agent-based interactions and economic behavior.
+- Explores **emergent behavior and inequality dynamics**
+- Built with scalability and experimentation in mind
+- Presented as research at the University of Washington Undergraduate Symposium May 2026
+
+
+## Tech Stack
+
+**Frontend**
+- React 19
+- TypeScript
+- Vite
+
+**Styling & UI**
+- Custom CSS
+- Responsive design
+- Animated UI elements
+- Framer Motion
+
+**Other**
+- API integrations
+- AI/LLM systems (Groq / Gemini)
+- Cloud deployment (Render, Vercel)
+
+## Site Sections
+
+- **Home** – Introduction and quick overview  
+- **About** – Background and technical focus  
+- **Projects** – Featured work and experience  
+- **Contact** – Links to GitHub, LinkedIn, and email 
+
+## Running Locally
 
 ```bash
 cd frontend
@@ -70,17 +116,18 @@ npm install
 npm run dev
 ```
 
-Available frontend scripts:
+## Contact
 
-- `npm run dev` starts the Vite development server
-- `npm run build` runs TypeScript project builds and creates a production bundle
-- `npm run lint` runs ESLint
-- `npm run preview` serves the production build locally
+- GitHub: https://github.com/gdoeg  
+- LinkedIn: https://www.linkedin.com/in/gabriela-castaneda-4aa04019a/  
+- Email: gabrielacastanedagc@gmail.com  
 
-## Notes About Legacy Files
+## Currently Working On
 
-The root-level `index.html` and `contact.html` files are older static HTML artifacts. They do not represent the main application flow anymore; the actively maintained app is the React frontend in `frontend/`.
+- Scaling agent-based simulations in Emergent Societies  
+- Enhancing AI-driven insights in Portfolio Pilot  
+- Preparing for full-time software engineering roles (2026)  
 
-## Deployment
+## Notes
 
-The repository name and earlier setup indicate AWS static hosting as a deployment target, but deployment automation and infrastructure configuration are not defined in the current codebase. If this project is deployed to S3 and CloudFront, that setup is external to the source currently in this repository.
+This portfolio is actively maintained and continuously evolving as I build new projects and gain experience in software engineering, AI, and cloud systems.
